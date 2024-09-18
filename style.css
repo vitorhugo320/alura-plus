@@ -11,3 +11,16 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+.container {
+    height: 100vh;
+    display: grid;
+}
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--branco-principal)
+}
